@@ -1,0 +1,38 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@500&family=Roboto&display=swap');
+
+
+
+.header-banner-bg {
+    background-color: #FFF9F4;
+}
+
+.h-text {
+    color: #fa804c;
+
+}
+
+
+.text-color {
+    color:
+        #363958;
+    font-family: 'Roboto', sans-serif;
+}
+
+.p-text {
+    color:
+        #3E3E3E;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+
+.images-bg {
+    color: #A9A9A9;
+}
+
+.buy-btn {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    border: 0
+}
